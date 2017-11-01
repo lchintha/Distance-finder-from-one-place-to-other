@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Distance Finder</string>
+    <string name="where_to">Enter a place in USA</string>
+    <string name="find_distance">Find Distance</string>
+    <string name="it_will_take">It will take </string>
+    <string name="distance_between_your_current_location_and">Distance Between Your Current Location and </string>
+</resources>
